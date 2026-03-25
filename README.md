@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mhd Ikhram Nasution</h1>
+<h1 align="center">Hi 👋, I'm Akbar Hasyemi</h1>
 <h3 align="center">Mobile Developer • Flutter Enthusiast • Tech Lover</h3>
 
 <p align="center">
@@ -8,21 +8,12 @@
 ---
 
 ### 🚀 About Me
-- 📱 Interested in **Mobile App Development**
-- 💙 Main stack **Flutter & Dart**
-- 🤖 Currently learning **Artificial Intelligence**
+- 📱 Interested in **Mobile App and desktop app**
+- 💙 Main stack **C++, C#, JavaScript, and Html**
+- 🤖 Currently learning **Mobile Development**
 - 🎮 Gamer & Technology Enthusiast
 
 ---
-
-### 🛠 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart,java,python,js,html,css,mysql,git,github,vscode,androidstudio"/>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p>
@@ -35,9 +26,6 @@
 ### 🌐 Connect With Me
 
 <p>
-<a href="https://github.com/MhdIkhramNasution">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 <a href="https://instagram.com/username">
 <img src="https://skillicons.dev/icons?i=instagram"/>
 </a>
