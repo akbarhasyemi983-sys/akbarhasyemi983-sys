@@ -2,7 +2,7 @@
 <h3 align="center">Mobile Developer • Flutter Enthusiast • Tech Lover</h3>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=MhdIkhramNasution&label=Profile%20Views&color=0e75b6&style=flat"/>
+<img src="https://komarev.com/ghpvc/?username=akbarhasyemi983-sys&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
@@ -17,8 +17,8 @@
 ### 📊 GitHub Stats
 
 <p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=MhdIkhramNasution&show_icons=true&theme=tokyonight"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MhdIkhramNasution&layout=compact&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=akbarhasyemi983-sys&show_icons=true&theme=tokyonight"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akbarhasyemi983-sys&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
